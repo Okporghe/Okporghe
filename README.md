@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Okporghe
-- 👀 I’m interested in EduTech and Business Intelligence and Data Analysis
-- 🌱 I’m currently learning Python, BI and Data Analysis and Django
+- 👀 I’m interested in EdTech.
+- 🌱 I’m currently learning Flutter and Dart to enable me build my EdTech App
 
 <!---
 Okporghe/Okporghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
